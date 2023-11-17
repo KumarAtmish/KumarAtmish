@@ -4,7 +4,7 @@
 :male_sign: `Kumar Atmish`
 <a href="https://www.linkedin.com/in/kumaratmish" target="_blank"><img  src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/>`LinkedIn`</a> | <a href="https://twitter.com/KumarAtmish" target="_blank"><img  src="https://edcmt.com/wp-content/uploads/2017/06/twitter-bird-200x200.png" width="15" height="15" alt="twitter logo"/> `Twitter`</a> | <a href="https://kumar-atmish.netlify.app/" target="_blank">`Website`</a>
 ## Key skills
-:zap: Html5, CSS3, Bootstrap, Ant Design, Material-UI, Styled-Components, Scss <br/>
+:zap: Html5, CSS3, Bootstrap, Tailwind CSS, Ant Design, Material-UI, Styled-Components, Scss <br/>
 :zap: JavaScript,  React, Redux <br/>
 :zap: Node, Express MongoDB, Java,  Oracle <br/>
 :zap:JWT <br/>
